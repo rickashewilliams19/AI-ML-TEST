@@ -10,4 +10,3 @@ Task 2
 
 Implement Rasa Framework for a Career Bot.
 
-Share your code via github and working link with video (if possible)
